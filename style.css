@@ -15,6 +15,7 @@ body {
   background-position: center;
 }
 
+/* header section */
 .header {
   position: fixed;
   top: 0;
@@ -28,12 +29,14 @@ body {
   z-index: 100;
 }
 
+/* logo */
 .logo {
   font-size: 25px;
   color: brown;
   text-decoration: none;
   font-weight: 700;
 }
+/* navigation bar */
 
 .navbar a {
   position: relative;
